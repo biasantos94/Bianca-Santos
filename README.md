@@ -1,4 +1,8 @@
-Oi, sou a Bianca Santos
+Oi, sou a Bianca Santos, tudo bem?
+
+Consegui efetuar a transição de carreira no início de 2022 como Cloud Operations na área de Infraestrutura e Segurança da Informação nos provedores de nuvem Azure e AWS.
+
+Estou começando em uma jornada para aprender DevOps.
 
 <div align="center">
   <a href="https://github.com/biasantos94">
